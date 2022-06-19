@@ -1,2 +1,2 @@
 # twitter_bot
-the node js bot to tweet joke and quote.
+the node js bot to send joke and quote to telegram and twiiter.
