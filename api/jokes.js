@@ -1,5 +1,5 @@
 const axios = require('axios');
-const tweet = require('./tweet');
+const {tweet} = require('./tweet');
 const {telegram} = require('./telegram');
 
 module.exports.jokes = () => {
